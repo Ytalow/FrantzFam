@@ -1,6 +1,4 @@
 # FrantzFam
 Site dos cara lá
 
-main.html
-
-style.css
+https://ytalow.github.io/FrantzFam/
